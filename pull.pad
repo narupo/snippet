@@ -1,0 +1,4 @@
+{@
+  exec("bash /root/pull.sh")
+@}
+
